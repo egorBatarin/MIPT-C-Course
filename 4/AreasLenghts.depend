@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1616510452 source:c:\users\batar\downloads\4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"header.h"
+
+1616511570 c:\users\batar\downloads\4\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1616509175 source:c:\users\batar\downloads\4\realization.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"header.h"
+	<math.h>
+
