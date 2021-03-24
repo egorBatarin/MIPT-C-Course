@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616599176 source:c:\users\batar\downloads\test 2\realization.cpp
+	"header.h"
+
+1616599568 c:\users\batar\downloads\test 2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+
+1616599504 source:c:\users\batar\downloads\test 2\main.cpp
+	"header.h"
+
